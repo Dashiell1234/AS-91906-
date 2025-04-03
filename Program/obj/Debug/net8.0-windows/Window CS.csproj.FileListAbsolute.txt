@@ -1,0 +1,19 @@
+C:\Users\d.m.mcmillan\OneDrive - Saint Kentigern\Y13\COM\C#\Window CS\bin\Debug\net8.0-windows\Window CS.exe
+C:\Users\d.m.mcmillan\OneDrive - Saint Kentigern\Y13\COM\C#\Window CS\bin\Debug\net8.0-windows\Window CS.deps.json
+C:\Users\d.m.mcmillan\OneDrive - Saint Kentigern\Y13\COM\C#\Window CS\bin\Debug\net8.0-windows\Window CS.runtimeconfig.json
+C:\Users\d.m.mcmillan\OneDrive - Saint Kentigern\Y13\COM\C#\Window CS\bin\Debug\net8.0-windows\Window CS.dll
+C:\Users\d.m.mcmillan\OneDrive - Saint Kentigern\Y13\COM\C#\Window CS\bin\Debug\net8.0-windows\Window CS.pdb
+C:\Users\d.m.mcmillan\OneDrive - Saint Kentigern\Y13\COM\C#\Window CS\obj\Debug\net8.0-windows\Window CS.csproj.GenerateResource.cache
+C:\Users\d.m.mcmillan\OneDrive - Saint Kentigern\Y13\COM\C#\Window CS\obj\Debug\net8.0-windows\Window CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.m.mcmillan\OneDrive - Saint Kentigern\Y13\COM\C#\Window CS\obj\Debug\net8.0-windows\Window CS.AssemblyInfoInputs.cache
+C:\Users\d.m.mcmillan\OneDrive - Saint Kentigern\Y13\COM\C#\Window CS\obj\Debug\net8.0-windows\Window CS.AssemblyInfo.cs
+C:\Users\d.m.mcmillan\OneDrive - Saint Kentigern\Y13\COM\C#\Window CS\obj\Debug\net8.0-windows\Window CS.csproj.CoreCompileInputs.cache
+C:\Users\d.m.mcmillan\OneDrive - Saint Kentigern\Y13\COM\C#\Window CS\obj\Debug\net8.0-windows\Window CS.dll
+C:\Users\d.m.mcmillan\OneDrive - Saint Kentigern\Y13\COM\C#\Window CS\obj\Debug\net8.0-windows\refint\Window CS.dll
+C:\Users\d.m.mcmillan\OneDrive - Saint Kentigern\Y13\COM\C#\Window CS\obj\Debug\net8.0-windows\Window CS.pdb
+C:\Users\d.m.mcmillan\OneDrive - Saint Kentigern\Y13\COM\C#\Window CS\obj\Debug\net8.0-windows\Window CS.genruntimeconfig.cache
+C:\Users\d.m.mcmillan\OneDrive - Saint Kentigern\Y13\COM\C#\Window CS\obj\Debug\net8.0-windows\ref\Window CS.dll
+C:\Users\d.m.mcmillan\OneDrive - Saint Kentigern\Y13\COM\C#\Window CS\obj\Debug\net8.0-windows\MyWindowsFormsApp.Form1.resources
+C:\Users\d.m.mcmillan\OneDrive - Saint Kentigern\Y13\COM\C#\Window CS\obj\Debug\net8.0-windows\Window CS.csproj.AssemblyReference.cache
+C:\Users\d.m.mcmillan\OneDrive - Saint Kentigern\Y13\COM\C#\Window CS\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Users\d.m.mcmillan\OneDrive - Saint Kentigern\Y13\COM\C#\Window CS\obj\Debug\net8.0-windows\Window CS.csproj.Up2Date
